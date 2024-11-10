@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 /***
  * Edad para Votar: Determinar si una persona es elegible para votar en función de su edad (mayor o igual a 18 años).
  * @author Dostin Maza
@@ -15,9 +13,9 @@ public class Ejercicio1_EdadVotar {
             System.out.println("VOTA");
         else 
             System.out.println("NO VOTA");
-        
     }
 }
 /***
- * 
+* DAME UNA EDAD: 9
+* NO VOTA
  */
